@@ -1,0 +1,10 @@
+.row-content {
+    width: 30%;
+    text-align: right;
+    margin: 5px 30px 5px 0;
+}
+.row-head{
+    font-size: 15px;
+    font-weight: 600;
+
+}

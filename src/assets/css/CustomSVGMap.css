@@ -1,0 +1,26 @@
+svg {
+    cursor: pointer;
+    width: 800px;
+    margin: 10px;
+
+}
+
+.my-box {
+
+}
+
+.my-box:hover {
+    fill: #0086c5;
+}
+
+.grass:hover {
+    fill: #3a6c21;
+}
+
+path {
+    transition: 0.8s;
+}
+
+.block-hover-color{
+    fill: #bbe7fd;
+}
